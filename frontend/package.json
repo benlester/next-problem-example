@@ -1,0 +1,30 @@
+{
+  "name": "next-problem",
+  "version": "0.0.1",
+  "description": "Example of NextJS problem I've been facing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ben Lester",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "next": "^8.0.3",
+    "query-string": "^6.4.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-select": "^2.4.2",
+    "react-text-mask": "^5.4.3",
+    "sanitize.css": "^8.0.0",
+    "text-mask-addons": "^3.8.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.0"
+  }
+}
