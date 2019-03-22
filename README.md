@@ -1,3 +1,5 @@
+ # SOLVED: see [this post](https://github.com/zeit/next.js/issues/6747#issuecomment-475414354)
+
 # Simple example of shallow routing and getInitialProps problem in NextJS
 
 To run:
